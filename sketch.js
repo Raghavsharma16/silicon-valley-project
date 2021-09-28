@@ -24,7 +24,7 @@ function preload () {
 rabit_running=loadAnimation("1.png","2.png","3.png","4.png");
 dog_running=loadAnimation("5.png","6.png");
 obstacleImg=loadImage("cactus.png");
-coinImg=loadImage("coin.png");
+
 carrotImg=loadImage("carrot.png");
 bgImg=loadImage("bg.jpg");
 goImg=loadImage("g.png");
